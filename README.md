@@ -255,5 +255,9 @@ Steps for Switching
 
 1. Liu, F. T., Ting, K. M., & Zhou, Z.-H. (2008). Isolation Forest. In 2008 Eighth IEEE International Conference on Data Mining (pp. 413-422). IEEE.
 
+### Note
+Raw datasets used to build the model, along with the model itself and any sensitive information related to DSO, are not included in this repository. This repository contains only the code and documentation necessary for understanding and reproducing the results.
+
+
 
 
